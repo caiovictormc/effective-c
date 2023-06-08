@@ -3,4 +3,4 @@ project(effective_c C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(effective_c chapter_1.c)
+add_executable(effective_c chapter_2.c)
